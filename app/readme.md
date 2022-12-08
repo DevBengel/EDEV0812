@@ -1,0 +1,1 @@
+This program requires Python 3.9.1
